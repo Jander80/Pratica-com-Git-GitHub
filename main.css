@@ -1,0 +1,24 @@
+:root {
+    --green:#00ff00;
+    --white:#ffffff;
+    --black:#000000;
+}
+
+body {
+
+    background-color: blueviolet;
+    font: white;
+
+
+}
+
+div {
+    font-style :red;
+
+}
+
+section {
+    background-color: pink;
+    font-size: helvetica; 
+    
+}

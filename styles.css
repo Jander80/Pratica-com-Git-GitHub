@@ -1,16 +1,1 @@
-:root {
-    --green:#00ff00;
-    --white:#ffffff;
-    --black:#000000;
-}
 
-.body {
-
-    background: blue;
-}
-
-.section.1 {
-    background-color: orange;
-    font-size: helvetica; 
-    
-}
